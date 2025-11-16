@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📄 README: Gslimp - Higienização e Renovação de Estofados
 Este documento descreve a estrutura e as funcionalidades do site da Gslimp, especializada em higienização, limpeza profunda e impermeabilização de estofados. O site é projetado para ser moderno, responsivo e focado em alta conversão, utilizando um design limpo inspirado em temas iOS (App Style).
 
@@ -16,3 +17,6 @@ index.html: O esqueleto principal do site, contendo todo o conteúdo, seções e
 style.css: O arquivo de estilos CSS, responsável por todo o design, cores (predominantemente branco, roxo e azul) e responsividade do site.
 
 script.js: O arquivo JavaScript, utilizado para funcionalidades interativas (como a barra de navegação e o carrossel de depoimentos).
+=======
+# Gslimpal
+>>>>>>> f761306a2fb1adb29ebacc563a2af6807e3ccaaf
